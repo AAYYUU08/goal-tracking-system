@@ -27,8 +27,7 @@ suggestions for the reminders also.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tushareshukla/goal-tracking-system.git
-    ```
+(https://github.com/AAYYUU08/goal-tracking-system)    ```
 
 2. Navigate to the backend directory:
 
